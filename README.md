@@ -1,3 +1,3 @@
 # STL_containers
-Group project 
-My part of the development included list and queue.
+Group project with bsuper and victoriv from School 21.
+- My part of the development included list and queue.
